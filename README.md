@@ -112,3 +112,7 @@ Thanks for all these great works that make this project better.
 - [stf](https://github.com/openstf)
 - [atx](https://github.com/NetEaseGame/ATX)
 - [pywinauto](https://github.com/pywinauto/pywinauto)
+
+## Go prototype
+
+A Go-based Airtest-like prototype is available in [`go-airtest/`](./go-airtest).
